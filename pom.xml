@@ -156,6 +156,7 @@
     <fastutil.version>6.3</fastutil.version>
     <semver.api.version>0.9.33</semver.api.version>
     <compat.skip>false</compat.skip>
+    <QAT.compression.codec.version>0.0.1</QAT.compression.codec.version>
   </properties>
 
   <modules>

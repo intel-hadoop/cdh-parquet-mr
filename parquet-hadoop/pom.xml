@@ -92,6 +92,11 @@
       <version>1.9.5</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-qat-codec</artifactId>
+      <version>${QAT.compression.codec.version}</version>
+    </dependency>
   </dependencies>
 
   <build>
